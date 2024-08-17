@@ -1,0 +1,7 @@
+@media screen and (max-height: 665px) {
+    .card-title img {
+        display: none;
+    }
+
+}
+    
